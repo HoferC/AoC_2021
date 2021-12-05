@@ -14,3 +14,6 @@ Console.WriteLine(day3);
 
 var day4 = new Day4("../../../Input/day04.txt");
 Console.WriteLine(day4);
+
+var day5 = new Day5("../../../Input/day05.txt");
+Console.WriteLine(day5);
