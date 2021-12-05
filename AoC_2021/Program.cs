@@ -8,3 +8,6 @@ Console.WriteLine(day1);
 
 var day2 = new Day2("../../../Input/day02.txt");
 Console.WriteLine(day2);
+
+var day3 = new Day3("../../../Input/day03.txt");
+Console.WriteLine(day3);
